@@ -1,5 +1,7 @@
 <?php
 
+namespase Pbo\Marketplace;
+
 class produk { 
 
    //property
